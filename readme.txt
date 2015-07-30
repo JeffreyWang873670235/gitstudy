@@ -8,3 +8,4 @@ Test change branch lost modified or not.
 commit1
 commit2
 commit3
+commit4
