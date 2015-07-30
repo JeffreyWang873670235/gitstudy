@@ -7,3 +7,4 @@ This is git dev branch and modified
 Test change branch lost modified or not.
 commit1
 commit2
+commit3
